@@ -2,7 +2,7 @@
 
 streamlit.title('My parents new Healthy Diner')
 
-from urllib.error import URLERROR
+#from urllib.error import URLERROR
 streamlit.header('Breakfast Menu')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
