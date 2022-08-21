@@ -43,7 +43,6 @@ except URLError as e:
 #import requests
 
 
-
 # output it the screen as a table
 
 
